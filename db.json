@@ -1,0 +1,7 @@
+{
+  todos: [
+	{ id: 1, title: "Primeiro", completed: false },
+	{ id: 2, title: "Segundo", completed: false },
+	{ id: 3, title: "Terceiro", completed: false }
+  ]
+}
